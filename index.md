@@ -1,2 +1,0 @@
-### Baseline for nvembar projects
-
